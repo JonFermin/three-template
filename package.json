@@ -1,0 +1,20 @@
+{
+  "name": "dyad-three-game",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "build:dev": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "three": "^0.172.0"
+  },
+  "devDependencies": {
+    "@types/three": "^0.172.0",
+    "typescript": "~5.7.2",
+    "vite": "^6.3.4"
+  }
+}
